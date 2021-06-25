@@ -1,0 +1,9 @@
+[user]
+	name = snake0
+	email = 1260865816@qq.com
+[http]
+	proxy = http://snake0:xyhqof-futbo5-bYfsyq@202.120.32.250:9081
+[https]
+	proxy = http://snake0:xyhqof-futbo5-bYfsyq@202.120.32.250:9081
+[credential]
+	helper = store
